@@ -18,34 +18,44 @@
  ## 🛠 Tech Stack
 IDE / Tool
 
-VS Code, STM32CubeIDE, Xilinx Vitis, CATIA
-
 [VS Code](https://code.visualstudio.com/), 
 [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html), 
 [Xilinx Vitis](https://www.xilinx.com/products/design-tools/vitis.html), 
-[CATIA](https://www.3ds.com/products-services/catia/)
 
-Vivado, LTspice, NGSPICE
+
+[Vivado](https://www.xilinx.com/products/design-tools/vivado.html), 
+[LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html), 
+[NGSPICE](http://ngspice.sourceforge.net/)
+
 
 Programming / HDL
 
-C, Verilog
+[C](https://en.wikipedia.org/wiki/C_(programming_language)), 
+[Verilog](https://en.wikipedia.org/wiki/Verilog)
 
 
 OS / Environment
 
-Ubuntu, Linux
+
+[Ubuntu](https://ubuntu.com/), 
+[Linux](https://www.linux.org/)
+
 
 Hardware / Board
 
-Arduino, Raspberry Pi, STM32, Basys3, Atmega 128a
+[STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), 
+[Basys3](https://digilent.com/shop/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/), 
+[Atmega128a](https://www.microchip.com/en-us/product/ATmega128A)
 
 
 Collaboration / Others
 
-GitHub, Notion, Tistory
-
+[GitHub](https://github.com/), 
+[Notion](https://www.notion.so/), 
+[Tistory](https://www.tistory.com/)
  
+
+## 🌟 대표 프로젝트
 
 
 <!--
