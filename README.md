@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 👋 유연한 사고로 해결하는 엔지니어, 진영제(wlsdudwp)입니다.
+ 전공 : 실용음악
+ 주요 관심사 : 임베디드, FPGA, Verilog, SoC 설계
+ 특징 : 유연한 사고로 어떤 방식이든 해결해내는 능력을 키움
 <!--
 **wlsdudwp/wlsdudwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
